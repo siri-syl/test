@@ -20,7 +20,7 @@
 
 title: 시리의 뚝-딱- 개발자 블로그
 author: siri-syl
-email: siri_syl@kakao.com
+email: sylee010101@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -32,7 +32,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
+  name: siri-syl
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
