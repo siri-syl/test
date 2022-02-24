@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll뭐지이게
+disqus: dbyll
 google_analytics: dbyll
 title: SeonYoung Lee - siri
 
@@ -24,7 +24,8 @@ author:
   twitter: 
   pinterest: 
   linkedin: 
-  bio: 노션 쓰다가 안되겠다 싶어서 다시 만든 깃허브 블로그! \n 정신 차려 네가 적은 거 잊지 마!
+  bio: 노션 쓰다가 안되겠다 싶어서 다시 만든 깃허브 블로그!
+  정신 차려 쓴 거 잊지 마!
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
