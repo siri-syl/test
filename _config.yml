@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: SeonYoung Lee - siri
+title: SY.Lee - siri
 
 defaults:
   -
@@ -18,7 +18,7 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: SeonYoung Lee - siri
+  name: SY.Lee - siri
   email: sylee010101@gmail.com
   github: siri-syl
   twitter: 
