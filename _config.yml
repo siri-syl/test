@@ -5,16 +5,16 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
+disqus: dbyll뭐지이게
 google_analytics: dbyll
-title: 시리의 다시 보는 개발페이지
+title: SeonYoung Lee - siri
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: SeonYoung Lee - siri
+      title: 시리의 다시 보는 개발페이지
 
 description: Stylish Jekyll Theme
 author:
